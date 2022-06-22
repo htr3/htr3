@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start":"node app.js"
   },
   "author": "",
   "license": "ISC",
@@ -32,13 +32,5 @@
     "query": "^0.2.0",
     "sanitize-html": "^2.6.1"
   },
-  "description": "yelpcamp website",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/htr3/htr3.git"
-  },
-  "bugs": {
-    "url": "https://github.com/htr3/htr3/issues"
-  },
-  "homepage": "https://github.com/htr3/htr3#readme"
+  "description": ""
 }
